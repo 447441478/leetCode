@@ -1,3 +1,5 @@
+package com.whale.demo;
+
 import java.util.HashMap;
 import java.util.Map;
 
